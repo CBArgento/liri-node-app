@@ -6,6 +6,9 @@
   <br>
   Movie-this
   <img src="https://github.com/CBArgento/liri-node-app/blob/master/assets/images/movie-this.PNG?raw=true">
+  <br>
+  Concert-this
+  <img src="https://github.com/CBArgento/liri-node-app/blob/master/assets/images/concert-this.PNG?raw=true">
 
 <h1>Why the project is useful</h1>
   This app helps you find Spotify songs and more.
