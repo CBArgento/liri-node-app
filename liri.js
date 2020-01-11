@@ -1,5 +1,11 @@
-require("dotenv").config();
+
+const result = require("dotenv").config();
+ 
+if (result.error) {
+  throw result.error
+}
 var keys = require("./keys.js");
+// console.log("keys", keys)
 
 var Spotify = require("node-spotify-api")
 
